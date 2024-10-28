@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676224011134",
+    "project_id": "autenticationapplestor",
+    "storage_bucket": "autenticationapplestor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676224011134:android:424ac4a10cc0fa0966412f",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676224011134-br7p7vl1220itfuhk6ok22ph99uddim3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU_zphoz1KZkX_lmykBoj1Y0jZgr-jvFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676224011134-br7p7vl1220itfuhk6ok22ph99uddim3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
